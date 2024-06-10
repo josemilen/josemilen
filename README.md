@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 
 ## About me
 
-Hi I'm Jose. 
+Hi I'm Jose. Google scholar link:
+
+<a href="https://scholar.google.com/citations?user=F-kspzUAAAAJ&hl=es.">José Miguel Lendínez</a>  
+
 
 ---
 > 06/10/24
